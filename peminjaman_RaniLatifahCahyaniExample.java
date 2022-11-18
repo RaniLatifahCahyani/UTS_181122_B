@@ -19,7 +19,7 @@ public class peminjaman_RaniLatifahCahyaniExample {
         nasabah1.setTanggal("181122");
         nasabah1.setKodenasabah("021");
         nasabah1.setNama("Rani");
-        nasabah1.setJumlah(100000);
+        nasabah1.setJumlah(200000);
         nasabah1.setLama(1);
         
         System.out.println("Kode Peminjaman: "+nasabah1.getKodepinjam());
